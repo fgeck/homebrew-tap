@@ -1,6 +1,6 @@
 cask "zmk-hud" do
-  version "0.1.0"
-  sha256 "PLACEHOLDER_SHA256"
+  version "0.0.1"
+  sha256 "9fe11759ce31692dac31954528b8ed958cbc15ce3c0524f16490474ba8d84ff3"
 
   url "https://github.com/fgeck/zmk-hud/releases/download/v#{version}/zmk-hud.zip",
       verified: "github.com/fgeck/zmk-hud"
